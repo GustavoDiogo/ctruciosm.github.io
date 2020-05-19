@@ -5,6 +5,9 @@ navbar:
     - icon: fa-home
       href: index.html
   right:
+    - text: Home 
+      icon: fa-home
+      href: index.html  
     - text: Research 
       icon: fa-graduation-cap
       href: research.html
