@@ -97,7 +97,7 @@ h1.title {
   text-align: right;
 }
 </style>
-
+<link href="site_libs/academicons-1.8.6/css/academicons.min.css" rel="stylesheet" />
 ----
 
 <div class="column-left">

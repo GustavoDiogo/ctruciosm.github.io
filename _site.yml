@@ -2,8 +2,6 @@ name: “Carlos Trucios”
 navbar:
   title: 
   left:
-    - icon: fa-home
-      href: index.html
   right:
     - text: Home 
       icon: fa-home
