@@ -125,6 +125,10 @@ I received the y-BIS Best Paper Award (ISBIS 2016 - Barcelona, Spain), IASC-ERS 
 Currently, my goal is to applied statistical learning techniques to financial problems as well as develop new volatility forecasting procedures in high-dimensional and high-frequency data.
 </span>
 
+</br>
+</div>
+
+<div class="column">
 ----
 
 <div class="column-left2">
@@ -153,13 +157,6 @@ Robust procedures and outliers </br>
 Statistical learning for financial econometrics </br> 
 
 </div>
-
-</br>
-</div>
-
-<div class="column">
-----
-
 
 
 
