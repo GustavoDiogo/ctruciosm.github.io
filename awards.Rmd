@@ -1,0 +1,71 @@
+---
+title: "Awards"
+output:
+  html_document:
+    fig_width: 1
+    toc_float: false    
+---
+
+<style type="text/css">
+.nav.navbar-nav.navbar-right a {
+    color: white;
+}
+.navbar {
+  background-color:maroon;
+  border-color:black;
+  icon-color:white;
+}
+.navbar-brand {
+color:black!important;
+}
+body{ /* Normal  */
+      font-size: 15px;
+  }
+h1.title {
+  font-size: 32px;
+}
+h3 { /* Header 3 */
+  font-size: 24px;
+  color: DarkRed;
+}
+</style>
+
+<style>
+a:link {
+    color: darkred;
+}
+a:visited {
+    color: darkred;
+}
+a:hover {
+    color: blue;
+}
+.column-f1{
+  float: left;
+  width: 20%;
+  text-align: left;
+}
+.column-f2{
+  float: right;
+  width: 20%;
+  text-align: right;
+}
+</style>
+
+----
+
+### **Awards**
+
+* 2019:
+  - Best LACSC 2019 Paper Award in the 4th Latin American Conference for Statistical Computing with the paper entitled **A general dynamic factor approach to forecast conditional covariance matrices in high-dimensional data** (LACSC2019)
+  - Scholarship 4th Latin American Conference for Statistical Computing (LACSC2019) 
+  - International Symposium on Forecasting Travel Award (declined)
+</br>  
+* 2018:
+  - IASC-ERS Young Researchers Award with the paper entitled  **Robust principal volatility components** (COMPSTAT2018). 
+</br>   
+* 2016:
+  - Second place prize y-BIS Best Paper Award with the paper entitled **Measuring the Effect of the Uncertainty in the Estimation of the Conditional Covariance Matrix in Portfolio Selection and Portfolio Risk Measures** (ISBIS2016)
+  - ISBIS 2016 Travel Award
+
+---- 

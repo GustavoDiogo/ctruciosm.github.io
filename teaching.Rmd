@@ -1,0 +1,82 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    toc_float: false
+    fig_width: 1
+---
+
+<style type="text/css">
+.nav.navbar-nav.navbar-right a {
+    color: white;
+}
+.navbar {
+  background-color:maroon;
+  border-color:black;
+  icon-color:white;
+}
+.navbar-brand {
+color:black!important;
+}
+body{ /* Normal  */
+      font-size: 15px;
+  }
+h1.title {
+  font-size: 32px;
+}
+h3 { /* Header 3 */
+  font-size: 24px;
+  color: DarkRed;
+}
+</style>
+
+<style>
+a:link {
+    color: darkred;
+}
+a:visited {
+    color: darkred;
+}
+a:hover {
+    color: blue;
+}
+.column-f1{
+  float: left;
+  width: 20%;
+  text-align: left;
+}
+.column-f2{
+  float: right;
+  width: 20%;
+  text-align: right;
+}
+</style>
+
+----
+
+### **Teaching Assistant (T.A):**
+
+
+* 2018:
+  - Probability (in Portuguese), EESP-FGV
+* 2015:
+  - Statistics for experimentalist (in Portuguese), UNICAMP
+  - Elementar Statistics (in Portuguese), UNICAMP
+* 2012
+  - Statistics for experimentalist (in Portuguese), UNICAMP
+  - Introduction to probability models (in Portuguese), UNICAMP
+* 2010
+  - Statistical Computing (in Spanish), UNMSM
+  
+</br>
+----
+
+### **Short Courses**
+
+* Modelling and forecasting financial risk measures, II Symposium on Mathematics and Applied Mathematics. Arequipa-Perú, 2019.
+* Special topics in R software: Graduate program, National University of San Marcos. Lima-Perú, 2016.
+* Special topics in R software: Ricardo Palma University. Lima-Perú, 2016.
+* Data manipulation and data visualization in R: 17th Statistics week, University of Campinas. Campinas-Brazil, 2015.
+
+</br>
+----

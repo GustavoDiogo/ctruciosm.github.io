@@ -1,0 +1,32 @@
+name: “Carlos Trucios”
+navbar:
+  title: 
+  left:
+    - icon: fa-home
+      href: index.html
+  right:
+    - text: Research 
+      icon: fa-graduation-cap
+      href: research.html
+    - text: Teaching
+      icon: fa-book
+      href: teaching.html  
+    - text: Talks
+      icon: fa-chalkboard-teacher
+      href: talks.html      
+    - text: Software
+      icon: fa-laptop
+      href: software.html
+    - text: Awards
+      icon: fa-award
+      href: awards.html  
+output_dir: "."
+output:
+  html_document:
+    theme: lumen  # cosmo
+    highlight: textmate
+#    include:
+#      after_body: footer.html
+
+# https://fontawesome.com/icons?d=gallery
+# http://bl.ocks.org/hempro00/6ce58ddc46407185e148

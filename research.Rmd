@@ -1,0 +1,103 @@
+---
+title: "Publications"
+output:
+  html_document:
+    fig_width: 1
+    toc_float: false    
+---
+
+<style type="text/css">
+.nav.navbar-nav.navbar-right a {
+    color: white;
+}
+.navbar {
+  background-color:maroon;
+  border-color:black;
+  icon-color:white;
+}
+.navbar-brand {
+color:black!important;
+}
+body{ /* Normal  */
+      font-size: 15px;
+  }
+h1.title {
+  font-size: 32px;
+}
+h3 { /* Header 3 */
+  font-size: 24px;
+  color: DarkRed;
+}
+</style>
+
+<style>
+a:link {
+    color: darkred;
+}
+a:visited {
+    color: darkred;
+}
+a:hover {
+    color: blue;
+}
+.column-f1{
+  float: left;
+  width: 20%;
+  text-align: left;
+}
+.column-f2{
+  float: right;
+  width: 20%;
+  text-align: right;
+}
+</style>
+
+----
+
+### **Publications**
+
+<ol reversed>
+
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Tiwari, Aviral; Alqahtani, Faisal. *Value-at-Risk and Expected Shortfall in Cryptocurrencies’ Portfolio: A Vine Copula–based Approach*. **Applied Economics** (2020).  \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Zevallos, Mauricio; Hotta, Luiz K. and Santos, André A. P. *Covariance prediction in large portfolio allocation*. **Econometrics** (2019)  \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Valls Pereira, Pedro L. *On the robustness of the principal volatility components*. **Journal of Empirical Finance** (2019). \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>. *Forecasting Bitcoin risk measures: A robust approach*. **International Journal of Forecasting** (2019) \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  Hotta, Luiz K. and <span style="color:darkred"> **Trucíos, Carlos**</span>. *Inference in (M)GARCH Models in the Presence of Additive Outliers: Specification, Estimation and Prediction*. In Lavor, C. and Neto, F. A. M. G., editors, Advances in Mathematics and Applications. **Springer**. (2018) \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust Bootstrap Densities for Dynamic Conditional Correlations: Implications for Portfolio Selection and Value-at-Risk*. **Journal of Statistical Computing and Simulation** (2018) \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust bootstrap forecast densities for GARCH returns and volatilities*. **Journal of Statistical Computing and Simulation** (2017). \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span> and Hotta, Luiz K. *Bootstrap prediction in univariate volatility models with leverage effect*. **Mathematics and Computers in Simulation** (2016). \medskip </li>
+</br>
+
+</ol>
+----
+
+### **Working Papers**
+
+<ol reversed>
+
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João; Hallin, Marc; Hotta, Luiz K.; Valls, Pedro and Zevallos, Mauricio. *Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach.* **Submitted** (2020) \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João; Hotta, Luiz K.; Valls, Pedro and Hallin, Marc. *Robustness and the general dynamic factor model with infinite-dimensional space: identification, estimation, and forecasting*. **Submitted** (2020) \medskip </li>
+</br>
+
+</ol>
+---- 
+
+### **Work in progress**
+
+<ol reversed>
+
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João and Motta, Anderson. *Cryptocurrency portfolio allocation using time-varying covariance matrix* \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>. *Risk measures in cryptocurrency data: A high frequency approach* \medskip </li>
+</br>
+
+</ol>
+---- 
