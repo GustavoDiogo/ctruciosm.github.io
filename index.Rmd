@@ -155,7 +155,6 @@ Statistical learning for financial econometrics </br>
 </div>
 
 </br>
-<!-- **Email: larissam\@ime.unicamp.br** -->
 </div>
 
 <div class="column">
