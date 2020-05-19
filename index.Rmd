@@ -57,7 +57,7 @@ h1.title {
 .column-left{
   float: left;
   width: 20%;
-  text-align: left;
+  text-align: center;
 }
 .column-right{
   float: right;
@@ -101,7 +101,16 @@ h1.title {
 ----
 
 <div class="column-left">
-![](imagens/foto_ctrucios.jpeg)
+![<a href= https://github.com/ctruciosm > <i class="fa fa-github-square fa-lg" aria-hidden="true" link =  ></i></a>
+<a href= https://www.linkedin.com/in/ctrucios/ > <i class="fa fa-linkedin-square fa-lg" aria-hidden="true" link =  ></i></a>
+<a href= http://lattes.cnpq.br/9315014843913122 > <i class="ai ai-lattes-square fa-lg" aria-hidden="true"></i> </a>
+<a href= https://scholar.google.com/citations?user=HEdXeQkAAAAJ > <i class="ai ai-google-scholar-square fa-lg" aria-hidden="true"></i></a>
+<a href= https://orcid.org/0000-0001-8746-8877 > <i class="ai ai-orcid-square fa-lg" aria-hidden="true"></i></a>
+<a href= https://www.researchgate.net/profile/Carlos_Trucios > <i class="ai ai-researchgate-square fa-lg" aria-hidden="true"></i></a>](imagens/foto_ctrucios.jpeg)
+
+**CONTACT** </br>
+<i class="fa fa-envelope" aria-hidden="true"></i> 
+ctrucios _at_ gmail  _dot_ com
 
 </div>
 <div class="column-right">
