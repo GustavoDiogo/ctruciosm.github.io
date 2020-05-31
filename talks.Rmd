@@ -67,6 +67,10 @@ a:hover {
 
 <li> Robust principal volatility components. Oral presentation at *23rd International Conference on Computational Statistics -COMPSTAT 2018*. August 28 to 31, 2018, Iasi (Romania).![](site_libs/flag-icon-css-master/flags/4x3/ro.svg){ width=2.5% }  \medskip </li>
 
+<li> Forecasting large dimensional (co)volatilities in the presence of outliers. Conference at *I Simposio de Matemática Pura y Aplicada*, December 20 to 22, 2017. Arequipa (Peru) ![](site_libs/flag-icon-css-master/flags/4x3/pe.svg){ width=2.5% } \medskip </li>
+
+<li> Forecasting large conditional covariance matrix in the presence of additive outliers. Seminar at *Universidad Nacional Mayor de San Marcos*. December 18, 2017, Lima (Peru).![](site_libs/flag-icon-css-master/flags/4x3/pe.svg){ width=2.5% }  \medskip </li>
+
 <li> Forecasting conditional covariance matrix via principal volatility components in the presence of additive outliers. Oral presentation at *Symposium on big data in finance, retail and commerce: Statistical and computational challenges*, November 2 and 3, 2017. Lisbon (Portugal).![](site_libs/flag-icon-css-master/flags/4x3/pt.svg){ width=2.5% } \medskip </li>
 
 <li> On the robustness of the principal volatility components. Oral presentation at  *Congreso Interamericano de Estadística*,. October 17 to 20, 2017. Rosário (Argentina).![](site_libs/flag-icon-css-master/flags/4x3/ar.svg){ width=2.5% } \medskip </li>
