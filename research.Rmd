@@ -96,7 +96,9 @@ a:hover {
 
 <li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João and Motta, Anderson. *Cryptocurrency portfolio allocation using time-varying covariance matrix* \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>. *Risk measures in cryptocurrency data: A high frequency approach* \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>. *Estimating Value-at-Risk and Expected Shortfall in cryptocurrency markets using forecast combination: Jumps and regime-switching* \medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz and Valls, Pedro. *A review on multivariate Markov-switching (M)GARCH models* \medskip </li>
 </br>
 
 </ol>
