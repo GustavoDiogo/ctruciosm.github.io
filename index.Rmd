@@ -124,8 +124,14 @@ I received the y-BIS Best Paper Award (ISBIS 2016 - Barcelona, Spain), IASC-ERS 
 
 Currently, my goal is to apply statistical learning techniques to financial problems as well as develop new volatility forecasting procedures in high-dimensional and high-frequency data.
 </span>
-
 </br>
+
+<span style="color:darkred"> __Forthcomig events: __ </span> </br> 
+</i> Bernoulli-IMS One World Symposium, August 2020 </br>
+</i> International Symposium on Forecasting, October 2020 </br>
+</i> X Encuentro Nacional de Matemáticas y Estadística, 2021 </br>
+
+
 </div>
 
 <div class="column">
@@ -155,8 +161,9 @@ Currently, my goal is to apply statistical learning techniques to financial prob
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Risk measures and portfolio allocation </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Robust procedures and outliers </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Statistical learning for financial econometrics </br> 
-
 </div>
+
+
 
 
 
