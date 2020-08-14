@@ -58,6 +58,8 @@ a:hover {
 
 <ol reversed>
 
+<li> Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach. Prerecorded talk at *Bernoulli-IMS One World Symposium 2020*. August 24 to 28, 2020. Online version. \medskip </li>
+
 <li> A general dynamic factor approach to forecast conditional covariance matrices in high- dimensional data. Oral presentation at *4th Latin American Conference for Statistical Computing - LACSC2019*. May 28 to 31, 2019. Guayaquil (Ecuador).![](site_libs/flag-icon-css-master/flags/4x3/ec.svg){ width=2.5% } \medskip </li>
 
 <li> Forecasting conditional covariance matrices in high-dimensional data using the general dynamic factor model. Oral presentation at *12th International Conference on Computational and Financial Econometrics - CFE2018*. December 14 to 16, 2018, Pisa (Italy).![](site_libs/flag-icon-css-master/flags/4x3/it.svg){ width=2.5% }  \medskip </li>
