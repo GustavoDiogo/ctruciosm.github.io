@@ -58,21 +58,21 @@ a:hover {
 
 <ol reversed>
 
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Tiwari, Aviral; Alqahtani, Faisal. *Value-at-Risk and Expected Shortfall in Cryptocurrencies’ Portfolio: A Vine Copula–based Approach*. **Applied Economics** (2020).  \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Tiwari, Aviral; Alqahtani, Faisal. *Value-at-Risk and Expected Shortfall in Cryptocurrencies’ Portfolio: A Vine Copula–based Approach*. **Applied Economics** (2020).  [Link](https://www.tandfonline.com/doi/abs/10.1080/00036846.2019.1693023?journalCode=raec20) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Zevallos, Mauricio; Hotta, Luiz K. and Santos, André A. P. *Covariance prediction in large portfolio allocation*. **Econometrics** (2019)  \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Zevallos, Mauricio; Hotta, Luiz K. and Santos, André A. P. *Covariance prediction in large portfolio allocation*. **Econometrics** (2019)  [Link](https://www.mdpi.com/2225-1146/7/2/19) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Valls Pereira, Pedro L. *On the robustness of the principal volatility components*. **Journal of Empirical Finance** (2019). \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Valls Pereira, Pedro L. *On the robustness of the principal volatility components*. **Journal of Empirical Finance** (2019). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0927539819300386) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>. *Forecasting Bitcoin risk measures: A robust approach*. **International Journal of Forecasting** (2019) \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i> <span style="color:darkred"> **Trucíos, Carlos**</span>. *Forecasting Bitcoin risk measures: A robust approach*. **International Journal of Forecasting** (2019) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0169207019300184) - [R package](https://cran.r-project.org/web/packages/RobGARCHBoot/)\medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  Hotta, Luiz K. and <span style="color:darkred"> **Trucíos, Carlos**</span>. *Inference in (M)GARCH Models in the Presence of Additive Outliers: Specification, Estimation and Prediction*. In Lavor, C. and Neto, F. A. M. G., editors, Advances in Mathematics and Applications. **Springer**. (2018) \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  Hotta, Luiz K. and <span style="color:darkred"> **Trucíos, Carlos**</span>. *Inference in (M)GARCH Models in the Presence of Additive Outliers: Specification, Estimation and Prediction*. In Lavor, C. and Neto, F. A. M. G., editors, Advances in Mathematics and Applications. **Springer**. (2018) [Link](https://link.springer.com/chapter/10.1007/978-3-319-94015-1_8) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust Bootstrap Densities for Dynamic Conditional Correlations: Implications for Portfolio Selection and Value-at-Risk*. **Journal of Statistical Computing and Simulation** (2018) \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust Bootstrap Densities for Dynamic Conditional Correlations: Implications for Portfolio Selection and Value-at-Risk*. **Journal of Statistical Computing and Simulation** (2018) [Link](https://www.tandfonline.com/doi/abs/10.1080/00949655.2018.1462811?journalCode=gscs20) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust bootstrap forecast densities for GARCH returns and volatilities*. **Journal of Statistical Computing and Simulation** (2017). \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Hotta, Luiz K. and Ruiz, Esther. *Robust bootstrap forecast densities for GARCH returns and volatilities*. **Journal of Statistical Computing and Simulation** (2017). [Link](https://www.tandfonline.com/doi/abs/10.1080/00949655.2017.1359601?journalCode=gscs20) - [R package](https://cran.r-project.org/web/packages/RobGARCHBoot/). \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span> and Hotta, Luiz K. *Bootstrap prediction in univariate volatility models with leverage effect*. **Mathematics and Computers in Simulation** (2016). \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span> and Hotta, Luiz K. *Bootstrap prediction in univariate volatility models with leverage effect*. **Mathematics and Computers in Simulation** (2016). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0378475415001330) \medskip </li>
 </br>
 
 </ol>
