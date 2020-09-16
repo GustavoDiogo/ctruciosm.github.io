@@ -21,6 +21,9 @@ navbar:
     - text: Awards
       icon: fa-award
       href: awards.html  
+    - text: IPE
+      icon: fa-user-graduate
+      href: IPE.html  
 output_dir: "."
 output:
   html_document:
