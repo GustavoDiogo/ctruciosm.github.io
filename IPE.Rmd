@@ -1,0 +1,72 @@
+---
+title: "Introdução à Probabilidade e Estatística"
+output:
+  html_document:
+    fig_width: 1
+    toc_float: false    
+---
+
+<style type="text/css">
+.nav.navbar-nav.navbar-right a {
+    color: white;
+}
+.navbar {
+  background-color:maroon;
+  border-color:black;
+  icon-color:white;
+}
+.navbar-brand {
+color:black!important;
+}
+body{ /* Normal  */
+      font-size: 15px;
+  }
+h1.title {
+  font-size: 32px;
+}
+h3 { /* Header 3 */
+  font-size: 24px;
+  color: DarkRed;
+}
+</style>
+
+<style>
+a:link {
+    color: darkred;
+}
+a:visited {
+    color: darkred;
+}
+a:hover {
+    color: blue;
+}
+.column-f1{
+  float: left;
+  width: 20%;
+  text-align: left;
+}
+.column-f2{
+  float: right;
+  width: 20%;
+  text-align: right;
+}
+</style>
+
+----
+
+[Plano de Ensino](IPE/PlanoEnsino.pdf) 
+
+[YouTube Channel](https://www.youtube.com/channel/UCrvm4mM1eoOn5WWCs08_-zg) 
+
+[Conferenciaweb RNP](https://conferenciaweb.rnp.br/webconf/carlos-193)
+
+----
+
+### **Cronograma**
+
+
+
+
+
+
+---- 
