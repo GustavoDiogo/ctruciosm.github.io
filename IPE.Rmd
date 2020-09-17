@@ -60,9 +60,23 @@ a:hover {
 
 [Conferenciaweb RNP](https://conferenciaweb.rnp.br/webconf/carlos-193)
 
+**Google Classroom**
+
+- [Turma: NA8BIN0406-15SA](https://classroom.google.com/c/MTYxOTg3MTc4NTQ3?cjc=rgcl32o)
+- [Turma: NB8BIN0406-15SA](https://classroom.google.com/c/MTYxOTg3MTc4Njg0?cjc=d45bfga)
+
+
+**Horarios**
+
+- **NA8BIN0406-15SA:** segunda das 21:00 às 23:00 (semanal); quarta das 19:00 às 21:00 (quinzenal II).
+- **NB8BIN0406-15SA:** segunda das 19:00 às 21:00 (semanal); quarta das 21:00 às 23:00 (quinzenal II). 
+
+
 ----
 
-### **Cronograma**
+### **Aulas**
+
+- Semana 01 - Aula 01 (2020-09-21): princípio básico de contagem, permutação e combinação, coeficientes multinomiais. [Video](https://www.youtube.com/channel/UCrvm4mM1eoOn5WWCs08_-zg), [Slides](IPE/Semana01_Aula01.pdf)
 
 
 
