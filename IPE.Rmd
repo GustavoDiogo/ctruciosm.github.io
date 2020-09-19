@@ -74,6 +74,8 @@ a:hover {
 
 ----
 
+As listas de exercicios serão divulgadas nas próximas semanas.
+
 ### **Aulas**
 
 - Semana 01 - Aula 01 (2020-09-21): princípio básico de contagem, permutação e combinação, coeficientes multinomiais. [Video](https://www.youtube.com/channel/UCrvm4mM1eoOn5WWCs08_-zg), [Slides](IPE/Semana01_Aula01.pdf)

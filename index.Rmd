@@ -116,7 +116,7 @@ ctrucios _at_ gmail  _dot_ com
 <div class="column-right">
 
 <span style="color:darkred"> **Visiting Professor** </span> </br>
-<span style="color:darkred"> **Centre for Mathematics, Computation and Cognition. Federal University of ABC, Brazil**</span></p>
+<span style="color:darkred"> **Center for Mathematics, Computing and Cognition. Federal University of ABC (UFABC), Brazil**</span></p>
 
 I am a Ph.D. in statistics with a focus on applied statistics and financial econometrics, mainly, risk management, portfolio allocation, volatility forecasting, robust statistics, and statistical learning. I have been working on new procedures for modelling and forecasting volatility in financial time series as well as its applications to financial problems. Before I joined the Federal University of ABC, I spent some time in Brazilian companies working as a Data Science Specialist, Data Science Coordinator, and Data Scientist Consultant.
 
