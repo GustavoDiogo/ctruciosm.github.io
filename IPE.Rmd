@@ -54,6 +54,13 @@ a:hover {
 
 ----
 
+
+**Lista 1 já está disponivel**
+
+[Lista 1](IPE/Lista1.pdf) (Data limite para entrega: 18 de outubro de 2020 às 23:59 horas por email (carlos.trucios@ufabc.edu.br))
+
+**Links importantes**
+
 [Plano de Ensino](IPE/PlanoEnsino.pdf) 
 
 [YouTube Channel](https://www.youtube.com/channel/UCrvm4mM1eoOn5WWCs08_-zg) 
