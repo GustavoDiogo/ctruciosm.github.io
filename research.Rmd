@@ -58,7 +58,9 @@ a:hover {
 
 <ol reversed>
 
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Tiwari, Aviral; Alqahtani, Faisal. *Value-at-Risk and Expected Shortfall in Cryptocurrencies’ Portfolio: A Vine Copula–based Approach*. **Applied Economics** (2020).  [Link](https://www.tandfonline.com/doi/abs/10.1080/00036846.2019.1693023?journalCode=raec20) \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João; Hotta, Luiz; Valls, Pedro and Hallin, Marc. *Robustness and the general dynamic factor model with infinite-dimensional space: identification, estimation, and forecasting*. **International Journal of Forecasting** (2020).\medskip </li>
+</br>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Tiwari, Aviral and Alqahtani, Faisal. *Value-at-Risk and Expected Shortfall in Cryptocurrencies’ Portfolio: A Vine Copula–based Approach*. **Applied Economics** (2020).  [Link](https://www.tandfonline.com/doi/abs/10.1080/00036846.2019.1693023?journalCode=raec20) \medskip </li>
 </br>
 <li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Zevallos, Mauricio; Hotta, Luiz K. and Santos, André A. P. *Covariance prediction in large portfolio allocation*. **Econometrics** (2019)  [Link](https://www.mdpi.com/2225-1146/7/2/19) \medskip </li>
 </br>
@@ -84,8 +86,6 @@ a:hover {
 
 <li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João; Hallin, Marc; Hotta, Luiz K.; Valls, Pedro and Zevallos, Mauricio. *Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach.* **Submitted** (2020) \medskip </li>
 </br>
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João; Hotta, Luiz K.; Valls, Pedro and Hallin, Marc. *Robustness and the general dynamic factor model with infinite-dimensional space: identification, estimation, and forecasting*. **Submitted** (2020) \medskip </li>
-</br>
 
 </ol>
 ---- 
@@ -94,7 +94,7 @@ a:hover {
 
 <ol reversed>
 
-<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Mazzeu, João and Motta, Anderson. *Cryptocurrency portfolio allocation using time-varying covariance matrix* \medskip </li>
+<li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>; Motta, Anderson. *Cryptocurrency portfolio allocation using time-varying covariance matrix* \medskip </li>
 </br>
 <li> <i class="fa fa-file" aria-hidden="true"></i>  <span style="color:darkred"> **Trucíos, Carlos**</span>. *Estimating Value-at-Risk and Expected Shortfall in cryptocurrency markets using forecast combination: Jumps and regime-switching* \medskip </li>
 </br>
