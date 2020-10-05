@@ -109,6 +109,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 2      | Análise Combinatória  2     | 2020-09-28 | [Link](https://youtu.be/T8JZjRZE9go)  | [Link](IPE/Semana02_Aula01.pdf)  | [Link](https://youtu.be/7QKiLZGr_Io)  |
 | 2      | Probabilidade 1     | 2020-09-30 | [Link](https://youtu.be/u4JqFOlH8oo)  | [Link](IPE/Semana02_Aula02.pdf)  | -  |
 | 3      | Probabilidade 2     | 2020-10-05 |   | [Link](IPE/Semana03.pdf)  | -  |
+| 4      | Probabilidade Conditional 1     | 2020-10-12 |   |  | -  |
 
 
 
