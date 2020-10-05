@@ -79,9 +79,25 @@ a:hover {
 - **NB8BIN0406-15SA:** segunda das 19:00 às 21:00 (semanal); quarta das 21:00 às 23:00 (quinzenal II). 
 
 
+
+**Monitorias**
+
+Horários de atendimento:
+
+- Gabriel - Segunda-Feira das 17h às 19h;
+- Gabriel - Terça-Feira das 17h às 19h;
+- Mateus - Quarta-Feira das 14h às 16h;
+- Mateus - Sexta-Feira das 16h às 18h.
+
+Os atendimentos serão por email, facebook, moodle e alguma ferramenta remota.
+
+O email do Gabriel é: g.tavares@aluno.ufabc.edu.br e link do conf web: https://conferenciaweb.rnp.br/webconf/gabriel-78
+
+Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link para atendimento remoto
+
+
 ----
 
-As listas de exercicios serão divulgadas nas próximas semanas.
 
 ### **Aulas**
 
@@ -92,6 +108,7 @@ As listas de exercicios serão divulgadas nas próximas semanas.
 | 1      | Análise Combinatória  1     | 2020-09-21 | [Link](https://youtu.be/ULVoVQF9LQQ)  | [Link](IPE/Semana01_Aula01.pdf)  | [Link](https://www.math.tecnico.ulisboa.pt/~dpaulino/Combinatoria.pdf)   |
 | 2      | Análise Combinatória  2     | 2020-09-28 | [Link](https://youtu.be/T8JZjRZE9go)  | [Link](IPE/Semana02_Aula01.pdf)  | [Link](https://youtu.be/7QKiLZGr_Io)  |
 | 2      | Probabilidade 1     | 2020-09-30 | [Link](https://youtu.be/u4JqFOlH8oo)  | [Link](IPE/Semana02_Aula02.pdf)  | -  |
+| 3      | Probabilidade 2     | 2020-10-05 |   | [Link](IPE/Semana03.pdf)  | -  |
 
 
 
