@@ -57,7 +57,7 @@ a:hover {
 
 **Lista 1 já está disponivel**
 
-[Lista 1](IPE/Lista1.pdf) (Data limite para entrega: 18 de outubro de 2020 às 23:59 horas por email (carlos.trucios@ufabc.edu.br))
+[Lista 1](IPE/Lista1.pdf) (Data limite para entrega: **até 18 de outubro de 2020 às 23:59** horas por email (carlos.trucios@ufabc.edu.br))
 
 **Links importantes**
 
@@ -108,8 +108,9 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 1      | Análise Combinatória  1     | 2020-09-21 | [Link](https://youtu.be/ULVoVQF9LQQ)  | [Link](IPE/Semana01_Aula01.pdf)  | [Link](https://www.math.tecnico.ulisboa.pt/~dpaulino/Combinatoria.pdf)   |
 | 2      | Análise Combinatória  2     | 2020-09-28 | [Link](https://youtu.be/T8JZjRZE9go)  | [Link](IPE/Semana02_Aula01.pdf)  | [Link](https://youtu.be/7QKiLZGr_Io)  |
 | 2      | Probabilidade 1     | 2020-09-30 | [Link](https://youtu.be/u4JqFOlH8oo)  | [Link](IPE/Semana02_Aula02.pdf)  | -  |
-| 3      | Probabilidade 2     | 2020-10-05 |   | [Link](IPE/Semana03.pdf)  | -  |
-| 4      | Probabilidade Conditional 1     | 2020-10-12 |   |  | -  |
+| 3      | Probabilidade 2     | 2020-10-05 | [Link](https://youtu.be/tHswU2eiYYU)  | [Link](IPE/Semana03.pdf)  | -  |
+| 4      | Probabilidade Conditional 1     | 2020-10-12 | [Link](https://youtu.be/WF7baXvOWEQ)  | [Link](IPE/Semana04_Aula01.pdf)  | -  |
+| 4      | Probabilidade Conditional 2     | 2020-10-13 |   |  | -  |
 
 
 
