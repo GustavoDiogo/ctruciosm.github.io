@@ -55,9 +55,12 @@ a:hover {
 ----
 
 
-**Lista 1 já está disponivel**
+**Lista 1**
 
-[Lista 1](IPE/Lista1.pdf) (Data limite para entrega: **até 18 de outubro de 2020 às 23:59** horas por email (carlos.trucios@ufabc.edu.br))
+[Lista 1](IPE/Lista1.pdf) - 
+[Gabarito](IPE/Gabarito_Lista1.pdf) - 
+[Notas](IPE/IPE_QS_2020_NOTAS_L1.xls) 
+
 
 **Links importantes**
 
