@@ -127,7 +127,6 @@ Currently, my goal is to apply statistical learning techniques to financial prob
 </br>
 
 <span style="color:darkred"> *Forthcoming events: * </span> </br> 
-</i> International Symposium on Forecasting, October 2020 </br>
 </i> 4to Congreso Internacionald Misciplinario de Matemática, November 2020 </br>
 </i> X Encuentro Nacional de Matemáticas y Estadística, 2021 </br>
 
