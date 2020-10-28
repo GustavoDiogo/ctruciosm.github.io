@@ -54,7 +54,7 @@ a:hover {
 
 ----
 
-**A prova será através do Google Class!!!**
+**Notas da P1 e da Lista 1 (corrigida) serão liberadas até do dia 02-11-2020**
 
 [Gabarito da P1](IPE/P1.pdf)
 
