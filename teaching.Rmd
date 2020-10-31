@@ -54,19 +54,21 @@ a:hover {
 
 ----
 
-### **Teaching Assistant (T.A):**
 
+### **Undergraduate**
 
+* 2020:
+  - [Introduction to Probability and Statistics (in Portuguese), UFABC](IPE.html)
 * 2018:
-  - Probability (in Portuguese), EESP-FGV
+  - Probability (in Portuguese), EESP-FGV  (T.A.)
 * 2015:
-  - Statistics for experimentalist (in Portuguese), UNICAMP
-  - Elementar Statistics (in Portuguese), UNICAMP
+  - Statistics for experimentalist (in Portuguese), UNICAMP (T.A.)
+  - Elementar Statistics (in Portuguese), UNICAMP (T.A.)
 * 2012
-  - Statistics for experimentalist (in Portuguese), UNICAMP
-  - Introduction to probability models (in Portuguese), UNICAMP
+  - Statistics for experimentalist (in Portuguese), UNICAMP (T.A.)
+  - Introduction to probability models (in Portuguese), UNICAMP (T.A.)
 * 2010
-  - Statistical Computing (in Spanish), UNMSM
+  - Statistical Computing (in Spanish), UNMSM (T.A.)
   
 </br>
 ----
