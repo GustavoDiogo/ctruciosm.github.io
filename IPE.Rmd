@@ -54,9 +54,10 @@ a:hover {
 
 ----
 
-**Notas da P1 e da Lista 1 (corrigida) serão liberadas até do dia 02-11-2020**
+**As notas da P1 e da Lista 1 (corrigida) já estão disponíveis**
 
-[Gabarito da P1](IPE/P1.pdf)
+[Gabarito da P1](IPE/P1.pdf) - 
+[Notas P1 e L1](IPE/IPE_QS_2020_L1P1.xls)
 
 
 **Lista 1**
@@ -120,10 +121,8 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 4      | Probabilidade Conditional 2     | 2020-10-14 |   | [Link](IPE/Semana04_Aula02.pdf)  | -  |
 | 5      | Revisão     | 2020-10-19 |   | - | -  |
 | 6      | Prova     | 2020-10-26 |   | - | -  |
-| 6      | Variáveis aleatórias 1    | 2020-10-28 | [Link](https://youtu.be/wDQ4JPF1syo)  | [Link](IPE/Semana06.pdf)  | -  |
-
-
-
+| 6      | Variáveis aleatórias 1    | 2020-10-28 | [Link](https://youtu.be/wDQ4JPF1syo)  | [Link](IPE/Semana06.pdf)  | [Link](https://www.probabilitycourse.com/chapter3/3_1_1_random_variables.php)  |
+| 7      | Variáveis aleatórias 2    | 2020-11-02 |   |  | [Binomial](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter11slides.pdf) - [Poisson](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter13slides.pdf)  |
 
 
 
