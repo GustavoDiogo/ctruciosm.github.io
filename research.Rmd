@@ -76,7 +76,7 @@ a:hover {
 </br>
 <li> *Bootstrap prediction in univariate volatility models with leverage effect*. **Mathematics and Computers in Simulation** (2016). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0378475415001330)  [with Luiz Hotta] \medskip </li>
 </br>
-<li> *Factors that influence in the academic performance ofthe students of the Faculty of Mathematical sciences ofthe Universidad Nacional Mayor de San Marcos** (2009). [Link](https://140.82.11.112/index.php/ECIPERU/article/view/336/324)  [with Estela Ponce Aruneri] \medskip </li>
+<li> *Factors that influence in the academic performance of the students of the Faculty of Mathematical sciences ofthe Universidad Nacional Mayor de San Marcos** (2009). **ECI PERU** [Link](https://140.82.11.112/index.php/ECIPERU/article/view/336/324)  [with Estela Ponce Aruneri] \medskip </li>
 </br>
 
 </ol>
