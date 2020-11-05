@@ -58,7 +58,10 @@ a:hover {
 
 <ol reversed>
 
-<li> Robustness and the general dynamic factor model with infinite-dimensional space: identification, estimation, and forecasting. Prerecorded talk at *International Symposium on Forecasting (ISF2020)*. October 26 to 28, 2020. Online version. \medskip </li>
+<li> Forecasting risk measures in cryptocurrency data. Conference at *4to Congreso Internacionald Misciplinario de Matemática*. November 4 to 6, 2020. Online version. (Peru) ![](site_libs/flag-icon-css-master/flags/4x3/pe.svg){ width=2.5% } \medskip </li>
+
+
+<li> Robustness and the general dynamic factor model with infinite-dimensional space: identification, estimation, and forecasting. Prerecorded talk at *International Symposium on Forecasting (ISF2020)*. October 26 to 28, 2020. Online version. (Brazil).![](site_libs/flag-icon-css-master/flags/4x3/br.svg){ width=2.5% } \medskip </li>
 
 <li> Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach. Prerecorded talk at *Bernoulli-IMS One World Symposium 2020*. August 24 to 28, 2020. Online version. \medskip </li>
 
