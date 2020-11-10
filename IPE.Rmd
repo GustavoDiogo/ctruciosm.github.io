@@ -123,7 +123,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 6      | Prova     | 2020-10-26 |   | - | -  |
 | 6      | Variáveis aleatórias 1    | 2020-10-28 | [Link](https://youtu.be/wDQ4JPF1syo)  | [Link](IPE/Semana06.pdf)  | [Link](https://www.probabilitycourse.com/chapter3/3_1_1_random_variables.php)  |
 | 7      | Variáveis aleatórias 2    | 2020-11-02 | [Link](https://youtu.be/PTmKMJxy164)  | [Link](IPE/Semana07.pdf) | [Binomial](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter11slides.pdf) - [Poisson](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter13slides.pdf)  |
-| 8      | Variáveis aleatórias 3    | 2020-11-09 |  | [Link](IPE/Semana08_Aula1.pdf) |   |
+| 8      | Variáveis aleatórias 3    | 2020-11-09 | [Link](https://youtu.be/Mia1tO5DNF8)  | [Link](IPE/Semana08_Aula1.pdf) |   |
 
 
 
