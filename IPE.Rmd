@@ -54,6 +54,11 @@ a:hover {
 
 ----
 
+
+**Lista 2 já está disponível**
+[Lista 2](IPE/Lista2.pdf) 
+
+
 **As notas da P1 e da Lista 1 (corrigida) já estão disponíveis**
 
 [Gabarito da P1](IPE/P1.pdf) - 
@@ -124,6 +129,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 6      | Variáveis aleatórias 1    | 2020-10-28 | [Link](https://youtu.be/wDQ4JPF1syo)  | [Link](IPE/Semana06.pdf)  | [Link](https://www.probabilitycourse.com/chapter3/3_1_1_random_variables.php)  |
 | 7      | Variáveis aleatórias 2    | 2020-11-02 | [Link](https://youtu.be/PTmKMJxy164)  | [Link](IPE/Semana07.pdf) | [Binomial](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter11slides.pdf) - [Poisson](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter13slides.pdf)  |
 | 8      | Variáveis aleatórias 3    | 2020-11-09 | [Link](https://youtu.be/Mia1tO5DNF8)  | [Link](IPE/Semana08_Aula1.pdf) |   |
+| 8      | Variáveis aleatórias 4    | 2020-11-11 |   | [Link](IPE/Semana08_Aula2.pdf) |   |
 
 
 
