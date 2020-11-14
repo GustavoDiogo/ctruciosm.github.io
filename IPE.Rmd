@@ -130,6 +130,9 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 7      | Variáveis aleatórias 2    | 2020-11-02 | [Link](https://youtu.be/PTmKMJxy164)  | [Link](IPE/Semana07.pdf) | [Binomial](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter11slides.pdf) - [Poisson](http://www-eio.upc.es/teaching/pe/www.computing.dcu.ie/~jhorgan/chapter13slides.pdf)  |
 | 8      | Variáveis aleatórias 3    | 2020-11-09 | [Link](https://youtu.be/Mia1tO5DNF8)  | [Link](IPE/Semana08_Aula1.pdf) |   |
 | 8      | Variáveis aleatórias 4    | 2020-11-11 | [Link](https://youtu.be/KuTj-iileao)  | [Link](IPE/Semana08_Aula2.pdf) |   |
+| 9      | Distribuição conjunta   | 2020-11-16 |   | [Link](IPE/Semana09.pdf) |   |
+| 10      | Teorema Central do Limite    | 2020-11-23 | | [Link](IPE/Semana10.pdf) |   |
+| 10      | Estatística Descritiva    | 2020-11-26 | |  |   |
 
 
 
