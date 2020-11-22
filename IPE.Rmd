@@ -123,7 +123,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 2      | Probabilidade 1     | 2020-09-30 | [Link](https://youtu.be/u4JqFOlH8oo)  | [Link](IPE/Semana02_Aula02.pdf)  | -  |
 | 3      | Probabilidade 2     | 2020-10-05 | [Link](https://youtu.be/tHswU2eiYYU)  | [Link](IPE/Semana03.pdf)  | -  |
 | 4      | Probabilidade Conditional 1     | 2020-10-12 | [Link](https://youtu.be/WF7baXvOWEQ)  | [Link](IPE/Semana04_Aula01.pdf)  | -  |
-| 4      | Probabilidade Conditional 2     | 2020-10-14 |   | [Link](IPE/Semana04_Aula02.pdf)  | -  |
+| 4      | Probabilidade Conditional 2     | 2020-10-14 |  [Link](https://www.youtube.com/watch?v=Pti64rWtwlc&list=PLrqJCLOY0EkD3NrhtUWysruqbk7Lj5bB_&index=7&t=2113s) | [Link](IPE/Semana04_Aula02.pdf)  | -  | 
 | 5      | Revisão     | 2020-10-19 |   | - | -  |
 | 6      | Prova     | 2020-10-26 |   | - | -  |
 | 6      | Variáveis aleatórias 1    | 2020-10-28 | [Link](https://youtu.be/wDQ4JPF1syo)  | [Link](IPE/Semana06.pdf)  | [Link](https://www.probabilitycourse.com/chapter3/3_1_1_random_variables.php)  |
@@ -132,7 +132,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 8      | Variáveis aleatórias 4    | 2020-11-11 | [Link](https://youtu.be/KuTj-iileao)  | [Link](IPE/Semana08_Aula2.pdf) |   |
 | 9      | Distribuição conjunta   | 2020-11-16 |  [Link](https://youtu.be/T_zUBmx_UMM)  | [Link](IPE/Semana09.pdf) |   |
 | 10      | Teorema Central do Limite    | 2020-11-23 | | [Link](IPE/Semana10.pdf) |   |
-| 10      | Estatística Descritiva    | 2020-11-26 | |  |   |
+| 10      | Estatística Descritiva    | 2020-11-26 | [Link](https://youtu.be/MCojvBThexU) | [Link](IPE/Semana10_Aula02.pdf) | [Link](https://www.cesadufs.com.br/ORBI/public/uploadCatalago/14435324022014Bioestatistica_Aula_02.pdf)  |
 
 
 
