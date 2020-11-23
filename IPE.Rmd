@@ -131,7 +131,7 @@ Do Mateus em princípio será: mateusborgiani@gmail.com ainda não temos o link 
 | 8      | Variáveis aleatórias 3    | 2020-11-09 | [Link](https://youtu.be/Mia1tO5DNF8)  | [Link](IPE/Semana08_Aula1.pdf) |   |
 | 8      | Variáveis aleatórias 4    | 2020-11-11 | [Link](https://youtu.be/KuTj-iileao)  | [Link](IPE/Semana08_Aula2.pdf) |   |
 | 9      | Distribuição conjunta   | 2020-11-16 |  [Link](https://youtu.be/T_zUBmx_UMM)  | [Link](IPE/Semana09.pdf) |   |
-| 10      | Teorema Central do Limite    | 2020-11-23 | | [Link](IPE/Semana10.pdf) |   |
+| 10      | Teorema Central do Limite    | 2020-11-23 | [Link](https://youtu.be/oyCKahJawP0) - [Simulação](https://youtu.be/0dRTWcv7VBE)   | [Link](IPE/Semana10.pdf) |   |
 | 10      | Estatística Descritiva    | 2020-11-26 | [Link](https://youtu.be/MCojvBThexU) | [Link](IPE/Semana10_Aula02.pdf) | [Link](https://www.cesadufs.com.br/ORBI/public/uploadCatalago/14435324022014Bioestatistica_Aula_02.pdf)  |
 
 
