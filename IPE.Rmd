@@ -55,21 +55,34 @@ a:hover {
 ----
 
 
-**Lista 2 já está disponível**
-[Lista 2](IPE/Lista2.pdf) 
+**P2**
+
+A $P_2$ acontecerá pelo google class e será liberada no domingo **06/12/2020** por volta do meio dia até a quarta feira **08/12/2020** às 23:59 (mais de 72 horas).
+
+Dicas: 
+
+- Fiquem atentos se a v.a. é continua o discreta
+- Vejam sempre quais valores a v.a. pode assumir (desde 0?, desde 1? a reta real toda?)
+- Estudem, já falta pouco!
+
+
+
+
+**Notas atualizadas até a Lista 2**
+[Lista 2](IPE/Lista2.pdf)  - 
+[Gabarito](IPE/Gabarito_Lista2.pdf)  - 
+[Notas](IPE/IPE_QS_2020_L1P1L2.xls) 
 
 
 **As notas da P1 e da Lista 1 (corrigida) já estão disponíveis**
 
 [Gabarito da P1](IPE/P1.pdf) - 
-[Notas P1 e L1](IPE/IPE_QS_2020_L1P1.xls)
-
 
 **Lista 1**
 
 [Lista 1](IPE/Lista1.pdf) - 
 [Gabarito](IPE/Gabarito_Lista1.pdf) - 
-[Notas](IPE/IPE_QS_2020_NOTAS_L1.xls) 
+
 
 
 **Links importantes**
