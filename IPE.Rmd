@@ -58,6 +58,7 @@ a:hover {
 **Notas Finais e Conceitos**
 
 [Notas](IPE/IPE_QS_2020_ALUNOS.xls) 
+[Gabarito P2](IPE/P2.pdf) 
 
 
 **P2**
