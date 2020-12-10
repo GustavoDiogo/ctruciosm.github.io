@@ -55,6 +55,11 @@ a:hover {
 ----
 
 
+**Notas Finais e Conceitos**
+
+[Notas](IPE/IPE_QS_2020_ALUNOS.xls) 
+
+
 **P2**
 
 A $P_2$ acontecerá pelo google class e será liberada no domingo **06/12/2020** por volta do meio dia até a quarta feira **08/12/2020** às 23:59 (mais de 72 horas).
