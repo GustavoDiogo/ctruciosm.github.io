@@ -86,6 +86,7 @@ a:hover {
 
 <ol reversed>
 
+<li> *Forecasting Value-at-Risk and Expected Shortfall of Cryptocurrencies using Combinations based on Jump-Robust and Regime-Switching Models.* **Submitted** (2020) [with James W. Taylor] \medskip </li>
 <li> *Forecasting Value-at-Risk and Expected Shortfall in Larga Portfolios: a General Dynamic Factor Approach.* **Submitted** (2020) [with Marc Hallin] \medskip </li>
 <li> *Forecasting Conditional Covariance Matrices in High-Dimensional Time Series: a General Dynamic Factor Approach.* **Submitted** (2020) [with João Mazzeu, Marc Hallin, Luiz Hotta, Pedro Valls and Mauricio Zevallos] \medskip </li>
 </br>
@@ -97,8 +98,6 @@ a:hover {
 
 <ol reversed>
 
-<li> *Forecasting Value-at-Risk and Expected Shortfall of Cryptocurrencies using Combinations based on Models with Jumps and Regime-Switching* [with James W. Taylor] \medskip </li>
-</br>
 <li> *Cryptocurrency portfolio allocation using time-varying covariance matrix* [with Anderson Motta] \medskip </li>
 </br>
 <li> *A review on multivariate Markov-switching (M)GARCH models* [with Luiz Hotta, Pedro Valls and Mauricio Zevallos] \medskip </li>

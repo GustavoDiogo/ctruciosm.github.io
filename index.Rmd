@@ -110,7 +110,7 @@ h1.title {
 
 **CONTACT** </br>
 <i class="fa fa-envelope" aria-hidden="true"></i> 
-ctrucios _at_ gmail  _dot_ com
+carlos.trucios _at_ facc  _dot_ ufrj _dot_ br
 
 </div>
 <div class="column-right">
