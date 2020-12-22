@@ -110,7 +110,7 @@ h1.title {
 
 **CONTACT** </br>
 <i class="fa fa-envelope" aria-hidden="true"></i> 
-carlos.trucios _at_ facc  _dot_ ufrj _dot_ br
+carlos.trucios _at_ </i> facc.ufrj.br
 
 </div>
 <div class="column-right">

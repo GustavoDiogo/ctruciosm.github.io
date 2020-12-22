@@ -57,6 +57,8 @@ a:hover {
 
 ### **Undergraduate**
 
+* 2021:
+  - [Forecasting and Regression Models (in Portuguese), UFRJ](MRP.html)
 * 2020:
   - [Introduction to Probability and Statistics (in Portuguese), UFABC](IPE.html)
 * 2018:
