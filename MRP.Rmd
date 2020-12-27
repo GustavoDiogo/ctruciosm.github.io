@@ -82,12 +82,17 @@ Horários de atendimento:
 
 ----
 
+### **Material e Aulas**
 
-### **Aulas**
+- Os conjuntos de dados que serão utilizados durante o curso estão disponíveis [aqui](MRP/DadosMRP.zip) 
+- Baixe o apêndice do livro texto [aqui](MRP/Apendice_Livro.pdf) 
 
-| Aula   | Assunto                     | Data       | Video | Slides | Extras |
-|--------|-----------------------------|------------|-------|--------|--------|
-| 1      | Intro e Reg. Linear Simples |            |       |        |        |
+
+| Aula   | Assunto                           | Data       | Video | Slides | Extras |
+|--------|-----------------------------------|------------|-------|--------|--------|
+| 1      | Intro e Reg. Linear Simples       |            |       |        |        |
+| 2      | RLS: Estimação                    |            |       |        |        |
+| 3      | RLS: Interpretação e Propriedades |            |       |        |        |
 
 
 
