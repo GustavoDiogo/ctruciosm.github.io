@@ -54,24 +54,23 @@ a:hover {
 
 ----
 
+Primeira aula dia 07/01/2021 às 16:40.
 
 **Links importantes**
 
 [Plano de Ensino]() 
 
-[YouTube Channel](g) 
+[YouTube Channel](https://www.youtube.com/playlist?list=PLrqJCLOY0EkDnnNuVz4FEKXoM6nDqxrgu) 
 
-[Conferenciaweb RNP]()  
+[Google Classroom](https://classroom.google.com/c/MjUwMTAwMjUyOTcy?cjc=pad4hj5)  
 
-**Google Classroom**
-
-
+[Link Google Meet](https://meet.google.com/lookup/gde3vhhxvi)  
 
 
 **Horários**
 
-
-
+Terças e Quintas das 16:40 às 18:20 (Turma B)
+Terças e Quintas das 18:30 às 20:10 (Turma D)
 
 
 **Monitorias**
@@ -90,9 +89,9 @@ Horários de atendimento:
 
 | Aula   | Assunto                           | Data       | Video | Slides | Extras |
 |--------|-----------------------------------|------------|-------|--------|--------|
-| 1      | Intro e Reg. Linear Simples       |            |       |        |        |
-| 2      | RLS: Estimação                    |            |       |        |        |
-| 3      | RLS: Interpretação e Propriedades |            |       |        |        |
+| 1      | Intro e Reg. Linear Simples       | 07/01/2021 |       | [link](MRP/Aula01.pdf)        | [Script R](MRP/EDA_Aula1.R)         |
+| 2      | RLS: Estimação                    | 12/01/2021 |       |        |        |
+| 3      | RLS: Interpretação e Propriedades | 14/01/2021 |       |        |        |
 
 
 
