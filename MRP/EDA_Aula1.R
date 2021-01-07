@@ -34,7 +34,7 @@ summary(wage1$educ)
 summary(wage1$wage)
 
 ## educação
-tab1(wage1$educ, plot = FALSE)
+tab1(wage1$educ)
 
 ## salario x educ
 boxplot(wage1$wage ~ wage1$educ, col= wage1$educ)
@@ -51,6 +51,7 @@ boxplot(wage1$wage ~ wage1$married)
 
 ## salario por cor
 boxplot(wage1$wage ~ wage1$nonwhite)
+
 
 
 
