@@ -54,7 +54,10 @@ a:hover {
 
 ----
 
-Primeira aula dia 07/01/2021 às 16:40.
+**Lista 1 Liberada!**
+
+[Lista 1](MRP/Lista1.pdf) 
+
 
 **Links importantes**
 
@@ -91,7 +94,9 @@ Horários de atendimento:
 |--------|-----------------------------------|------------|-------|--------|--------|
 | 1      | Intro e Reg. Linear Simples       | 07/01/2021 | [Link](https://youtu.be/Hnb2mJs6nb8)  - [Link R](https://youtu.be/N360-J0MWwk)    | [link](MRP/Aula01.pdf)        | [Script R](MRP/EDA_Aula1.R)         |
 | 2      | RLS: Estimação                    | 12/01/2021 |  [Link](https://youtu.be/GCK-38OrXWc)      |   [link](MRP/Aula02.pdf)      |   [Script R](MRP/RLS_Aula2.R)       |
-| 3      | RLS: Interpretação e Propriedades | 14/01/2021 |       |        |        |
+| 3      | RLS: Interpretação e Propriedades | 14/01/2021 |       |   [link](MRP/Aula03.pdf)      |  [Script R](MRP/RLS_Aula3.R)  |
+| 4      | Modelo de Regressão Linear Multipla (MRLM) | 19/01/2021 |       |   [link](MRP/Aula04.pdf)      |        |
+| 5      | MRLM: Inferência | 21/01/2021 |       |        |        |
 
 
 
