@@ -58,6 +58,10 @@ a:hover {
 
 [Lista 1](MRP/Lista1.pdf) 
 
+**Material de R**
+
+[Livro](http://leg.ufpr.br/Rpira/Rpira.pdf) 
+
 
 **Links importantes**
 
@@ -94,11 +98,9 @@ Horários de atendimento:
 |--------|-----------------------------------|------------|-------|--------|--------|
 | 1      | Intro e Reg. Linear Simples       | 07/01/2021 | [Link](https://youtu.be/Hnb2mJs6nb8)  - [Link R](https://youtu.be/N360-J0MWwk)    | [link](MRP/Aula01.pdf)        | [Script R](MRP/EDA_Aula1.R)         |
 | 2      | RLS: Estimação                    | 12/01/2021 |  [Link](https://youtu.be/GCK-38OrXWc)      |   [link](MRP/Aula02.pdf)      |   [Script R](MRP/RLS_Aula2.R)       |
-| 3      | RLS: Interpretação e Propriedades | 14/01/2021 |       |   [link](MRP/Aula03.pdf)      |  [Script R](MRP/RLS_Aula3.R)  |
+| 3      | RLS: Interpretação e Propriedades | 14/01/2021 | [Link](https://youtu.be/fsWB6CG-Ri0)       |   [link](MRP/Aula03.pdf)      |  [Script R](MRP/RLS_Aula3.R)  |
 | 4      | Modelo de Regressão Linear Multipla (MRLM) | 19/01/2021 |       |   [link](MRP/Aula04.pdf)      | [Script R](MRP/MRLM_Aula4.R)        |
 | 5      | MRLM: Inferência | 21/01/2021 |       |        |        |
-
-
 
 
 
