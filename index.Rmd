@@ -129,6 +129,10 @@ Currently, my goal is to apply statistical learning techniques on Business, Econ
 
 <span style="color:darkred"> *Forthcoming events: * </span> </br> 
 </i> X Encuentro Nacional de Matemáticas y Estadística, 2021 </br>
+</i> Latin American Conference on Statistical Computing (LACSC 2021), April 19 to April 21, 2021 </br>
+
+
+
 
 
 </div>
