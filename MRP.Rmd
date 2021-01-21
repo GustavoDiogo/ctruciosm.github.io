@@ -11,7 +11,7 @@ output:
     color: white;
 }
 .navbar {
-  background-color:maroon;
+  background-color: #00695c;
   border-color:black;
   icon-color:white;
 }
@@ -26,16 +26,16 @@ h1.title {
 }
 h3 { /* Header 3 */
   font-size: 24px;
-  color: DarkRed;
+  color: darkgreen;
 }
 </style>
 
 <style>
 a:link {
-    color: darkred;
+    color: darkgreen;
 }
 a:visited {
-    color: darkred;
+    color: darkgreen;
 }
 a:hover {
     color: blue;
@@ -103,6 +103,7 @@ Horários de atendimento:
 | 5      | Modelo de Regressão Linear Multipla (MRLM) | 21/01/2021 |       |   [link](MRP/Aula05.pdf)      | [Script R](MRP/MRLM_Aula5.R)        |
 | 6      | MRLM: Inferência | 26/01/2021 |       |   [link](MRP/Aula06.pdf)      |  [Script R](MRP/MRLM_Aula6.R)       |
 | 7      | Laboratorio de R Parte II | 28/01/2021 |       |        |        |
+| 8      | MRLM: Tópicos adicionais | 02/02/2021 |       |  [link](MRP/Aula08.pdf)      |        |
 
 
 

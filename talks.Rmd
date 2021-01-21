@@ -11,7 +11,7 @@ output:
     color: white;
 }
 .navbar {
-  background-color:maroon;
+  background-color: #00695c;
   border-color:black;
   icon-color:white;
 }
@@ -26,16 +26,16 @@ h1.title {
 }
 h3 { /* Header 3 */
   font-size: 24px;
-  color: DarkRed;
+  color: darkgreen;
 }
 </style>
 
 <style>
 a:link {
-    color: darkred;
+    color: darkgreen;
 }
 a:visited {
-    color: darkred;
+    color: darkgreen;
 }
 a:hover {
     color: blue;
