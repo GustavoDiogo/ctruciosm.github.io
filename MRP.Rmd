@@ -54,9 +54,11 @@ a:hover {
 
 ----
 
-**Lista 1 Liberada!**
+**Lista 2 Liberada!**
 
-[Lista 1](MRP/Lista1.pdf) 
+[Lista 1](MRP/Lista1.pdf)  
+
+[Lista 2](MRP/Lista2.pdf)  
 
 **Material de R**
 
