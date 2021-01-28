@@ -103,7 +103,7 @@ Monitor: Estamos sem monitor no momento
 | 4      | Laboratorio de R Parte I| 19/01/2021 |  [Link](https://youtu.be/d_rR36_GXaA)      |        |   [Script R](MRP/Lab01.R)     |
 | 5      | Modelo de Regressão Linear Multipla (MRLM) | 21/01/2021 |  [Link](https://youtu.be/U9aQJNsG_K4)      |   [link](MRP/Aula05.pdf)      | [Script R](MRP/MRLM_Aula5.R)        |
 | 6      | MRLM: Inferência | 26/01/2021 |   [Link](https://youtu.be/fcb2RvJcWi4)     |   [link](MRP/Aula06.pdf)      |  [Script R](MRP/MRLM_Aula6.R)       |
-| 7      | Laboratorio de R Parte II | 28/01/2021 |       |        |        |
+| 7      | Laboratorio de R Parte II | 28/01/2021 | [Link](https://youtu.be/dnH9x0cHz0A)        |  [Gabarito L1](MRP/Lista1_Gabarito.pdf)       |  [Script R](MRP/Gabarito_Lista1_Codigos.R)      |
 | 8      | MRLM: Tópicos adicionais | 02/02/2021 |       |  [link](MRP/Aula08.pdf)      |   [Script R](MRP/Aula08.R)     |
 | 9      | MRLM: variáveis qualitativas e intereção | 02/02/2021 |       |  [link](MRP/Aula09.pdf)      |  [Script R](MRP/Aula09.R)      |  
 
