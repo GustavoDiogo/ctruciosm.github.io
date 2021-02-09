@@ -108,7 +108,8 @@ Monitor: Estamos sem monitor no momento
 | 7      | Laboratorio de R Parte II | 28/01/2021 | [Link](https://youtu.be/dnH9x0cHz0A)        |  [Gabarito L1](MRP/Lista1_Gabarito.pdf)       |  [Script R](MRP/Gabarito_Lista1_Codigos.R)      |
 | 8      | MRLM: Tópicos adicionais | 02/02/2021 |  [Link](https://youtu.be/avw-4zmABqA)     |  [link](MRP/Aula08.pdf)      |   [Script R](MRP/Aula08.R)     |
 | 9      | MRLM: variáveis qualitativas e intereção | 02/02/2021 |  [Link](https://youtu.be/Nt6-wrEJVCg)      |  [link](MRP/Aula09.pdf)   [Gabarito L2](MRP/Lista2_Gabarito.pdf)    |  [Script R](MRP/Aula09.R)      |  
-| 10      | MRLM: verificação das hipóteses | 09/02/2021 |       |       |       |  
+| 10      | MRLM: verificação das hipóteses | 09/02/2021 |       |   [link](MRP/Aula10.pdf)      |      |  
+| 11      | MRLM: verificação das hipóteses II | 11/02/2021 |       |         |      |  
 
 
 
