@@ -143,7 +143,7 @@ Currently, my goal is to apply statistical learning techniques on Business, Econ
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> High dimensional data </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Risk measures and portfolio allocation </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Robust procedures and outliers </br> 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Statistical learning for business and business and financial econometrics </br> 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Statistical learning for business and financial econometrics </br> 
 </div>
 
 
