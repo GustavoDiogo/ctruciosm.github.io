@@ -25,32 +25,10 @@ body{ /* Normal  */
       font-size: 15px;
       background-color: white
   }
-<!-- td {  /* Table  */ -->
-<!--   font-size: 8px; -->
-<!-- } -->
 h1.title {
   font-size: 36px;
-  <!-- color: DarkRed; -->
 }
-<!-- h1 { /* Header 1 */ -->
-<!--   font-size: 28px; -->
-<!--   color: DarkBlue; -->
-<!-- } -->
-<!-- h2 { /* Header 2 */ -->
-<!--     font-size: 22px; -->
-<!--   color: DarkBlue; -->
-<!-- } -->
-<!-- h3 { /* Header 3 */ -->
-<!--   font-size: 18px; -->
-<!--   font-family: "Times New Roman", Times, serif; -->
-<!--   color: DarkBlue; -->
-<!-- } -->
-<!-- code.r{ /* Code block */ -->
-<!--     font-size: 12px; -->
-<!-- } -->
-<!-- pre { /* Code block - determines code spacing between lines */ -->
-<!--     font-size: 14px; -->
-<!-- } -->
+
 </style>
 
 <style>
@@ -96,6 +74,7 @@ h1.title {
   width: 20%;
   text-align: right;
 }
+
 </style>
 <link href="site_libs/academicons-1.8.6/css/academicons.min.css" rel="stylesheet" />
 ----
@@ -115,7 +94,7 @@ carlos.trucios _at_ </i> facc.ufrj.br
 </div>
 <div class="column-right">
 
-I am Assistant Professor of Quantitative Methods in the Faculty of Business Administration and Accounting (FACC) at the Federal University of Rio de Janeiro (UFRJ), Brazil. 
+I am Assistant (tenure track) Professor of Quantitative Methods in the Faculty of Business Administration and Accounting (FACC) at the Federal University of Rio de Janeiro (UFRJ), Brazil. 
 
 
 I hold a Ph.D in Statistics from the University of Campinas (Brazil) and my research interests are risk management, portfolio allocation, volatility forecasting, robust statistics, and statistical learning. 
@@ -135,14 +114,10 @@ Currently, my goal is to apply statistical learning techniques on Business, Econ
 </i> X Encuentro Nacional de Matemáticas y Estadística, 2021 </br>
 </i> Latin American Conference on Statistical Computing (LACSC 2021), April 19 to April 21, 2021 </br>
 
-
-
-
-
 </div>
 
-<div class="column">
-----
+</br>
+</br>
 
 <div class="column-left2">
 <span style="color:darkgreen"> **Education** </span>
@@ -168,8 +143,9 @@ Currently, my goal is to apply statistical learning techniques on Business, Econ
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> High dimensional data </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Risk measures and portfolio allocation </br> 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Robust procedures and outliers </br> 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Statistical learning for financial econometrics </br> 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Statistical learning for business and business and financial econometrics </br> 
 </div>
+
 
 
 
