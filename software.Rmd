@@ -56,6 +56,9 @@ a:hover {
 
 ### **R packages**
 
+
+<i class="fa fa-code" aria-hidden="true"></i>  [Robpvc:](https://github.com/ctruciosm/Robpvc) Robust Principal Volatility Components  \medskip </li>
+</br>
 <i class="fa fa-code" aria-hidden="true"></i>  [RobGARCHBoot:](https://cran.r-project.org/web/packages/RobGARCHBoot/index.html) Robust Bootstrap Forecast Densities for GARCH Models  \medskip </li>
 </br>
 <i class="fa fa-code" aria-hidden="true"></i>  [RM2006:](https://cran.r-project.org/web/packages/RM2006/index.html)  RiskMetrics 2006 Methodology. \medskip </li>
