@@ -114,8 +114,8 @@ Monitor: Estamos sem monitor no momento
 | 11      | MRLM: verificação das hipóteses II + Lab de R  | 11/02/2021 |   [Link](https://youtu.be/V5nl51DRVnw)      |   [link](MRP/Aula11.pdf)        |    [lab R](https://youtu.be/t-oSK9At9P8) [Script R](MRP/LabR-3.R)   |  
 | 12      | MQO e Séries Temporais | 23/02/2021 |   [Link](https://youtu.be/-TK27cb2QGY)     |   [link](MRP/Aula12.pdf)        |      | 
 | 13      | MQO e Séries Temporais II | 25/02/2021 |  [Link](https://youtu.be/Oh84Cy6oGCw)         |   [link](MRP/Aula13.pdf)          |      | 
-| 14      | MQO e Séries Temporais III | 02/03/2021 |      |           |      | 
-| 15      | Seminários | 04/03/2021 |      |           |      | 
+| 14      | MQO e Séries Temporais III | 02/03/2021 |  [Link](https://youtu.be/qZAtaarop0c)     |  [link](MRP/Aula14.pdf)            |      | 
+| 15      | Seminários | 04/03/2021 |       |          |      | 
 
 
 
